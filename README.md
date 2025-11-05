@@ -21,3 +21,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - before coding the UI, break down it into components from the given ui i.e: design or Image
 - React Native includes a few different components for handling touch events, but <Pressable> is recommended for its flexibility. It can detect single taps, long presses, trigger separate events when the button is pushed in and released, and more.
 - how to make components reusable with respect to styling e.g: Button
+- how to override default styles by using inline styles
