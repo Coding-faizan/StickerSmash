@@ -30,3 +30,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - React Native includes a few different components for handling touch events, but <Pressable> is recommended for its flexibility. It can detect single taps, long presses, trigger separate events when the button is pushed in and released, and more.
 - how to make components reusable with respect to styling e.g: Button
 - how to override default styles by using inline styles
+
+## Use an image picker
+
+- Relied upon third party package for image picking
+- image picker options to give user option to edit pic before uploadings
