@@ -16,6 +16,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+## Navigation
+
+- Two types of navigation (Tab and Stack)
+- Navigation between screens using Link component
+- add screen names in \_layout.tsx in the Stack component
+- Navigations using Tab
+- create (tabs) subdirectory and layout, define tab.screen under tabs component
+
 ## Build a Screen Summary
 
 - before coding the UI, break down it into components from the given ui i.e: design or Image
