@@ -35,3 +35,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 - Relied upon third party package for image picking
 - image picker options to give user option to edit pic before uploadings
+
+## Add Gesture
+
+- useSharedValue is a hook from the react-native-reanimated library that allows you to create and manage values that can be shared between the JavaScript thread and the UI thread in React Native. This is crucial for creating smooth and performant animations that run on the native UI thread, even when the JavaScript thread is busy.
